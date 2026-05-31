@@ -1,0 +1,65 @@
+# ---- Java ----
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# Build output
+/out/
+/bin/
+/build/
+/target/
+
+# ---- Maven ----
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ---- Gradle ----
+.gradle/
+gradle-app.setting
+
+# ---- IntelliJ IDEA / JetBrains ----
+# User-specific and machine-specific IDE files; keep shared project config out of VCS.
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ---- Other IDEs / editors ----
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*~
+
+# ---- OS files ----
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---- Claude Code ----
+CLAUDE.md
+.claude/
+
+# ---- Environment / secrets ----
+.env
+.env.local
+*.local

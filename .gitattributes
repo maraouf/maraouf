@@ -1,0 +1,9 @@
+# Normalize all text files; enforce CRLF in the working tree (project default)
+* text=auto eol=crlf
+
+# Keep binaries untouched
+*.jar binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.gif binary
