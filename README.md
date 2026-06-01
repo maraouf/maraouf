@@ -11,7 +11,7 @@ Why use the cloud when you can have a server rack heating your home?
 * **Compute:** Dell Server (ESXi / vCenter), Proxmox nodes, and a fleet of PoE-powered Raspberry Pi 4s.
 * **Storage & Network:** Synology, TrueNAS, an OPNsense Gateway, heavily segmented VLANs, and enough Ubiquiti PoE switches to power a small office.
 * **Containers & VMs:** Debian all the way down. Orchestrating an endless sea of Docker Swarm containers via Portainer, and keeping an eye on it all with my custom-built dashboard, [OmniGrid](https://github.com/maraouf/OmniGrid).
-* **Monitoring the Chaos:** If it isn't monitored, does it even exist? Tracking the madness with Grafana, Zabbix, Netdata, Beszel, and Uptime Kuma.
+* **Monitoring the Chaos:** If it isn't monitored, does it even exist? Tracking the madness with Grafana, Zabbix, Netdata, Beszel, Uptime Kuma and integrating them with my unified view via [OmniGrid](https://github.com/maraouf/OmniGrid).
 
 ### 🛠 What I'm building
 
