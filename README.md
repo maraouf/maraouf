@@ -15,7 +15,7 @@ Why use the cloud when you can have a server rack heating your home?
 
 ### 🛠 What I'm building
 
-* **AI Workflows:** Hooking up Claude, Gemini, and ChatGPT APIs to my dev environments (mostly PHP & JS) to speed up code refactoring.
+* **AI Workflows:** Hooking up Claude, Gemini, and ChatGPT APIs to my dev environments (mostly Python, PHP, Kotlin, Node & JS) to speed up code refactoring.
 * **Workflow Tools:** Building plugins like [CopyProblemsPlugin](https://github.com/maraouf/CopyProblemsPlugin) to grab IDE issues straight to the clipboard to streamline debugging.
 * **Smart Home:** Automating absolutely everything with Home Assistant, Aqara hubs, and Xiaomi sensors so I never have to manually flip a switch again. Bridging it all across the Apple, Google, and Alexa ecosystems and trying to figure out how to get them to play nice together—if only these tech giants would agree on a single standard and save me the trouble.
 
